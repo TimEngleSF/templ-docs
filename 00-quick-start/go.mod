@@ -1,4 +1,4 @@
-module github.com/a-h/templ-examples/hello-world
+module getting-started
 
 go 1.21.6
 
